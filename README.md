@@ -6,7 +6,7 @@
 [Andrés Pájaro](https://tecnoaccountafpc.blob.core.windows.net/tecnologico/index.html),
 [Samy Gomez](https://tecnowebapp.azurewebsites.net/),
 [Fernado Gomez](https://listfer.blob.core.windows.net/ttt/pagina.html),
-[Valeria Hernandez](),
+[Valeria Hernandez](https://tecnoaccount0806.blob.core.windows.net/tecnologico/Index.html),
 [Jhon Salas](https://storageaccountflop.blob.core.windows.net/tecnologico/Portafolio%20J%20Salas.html#Biografia) 
 
 
